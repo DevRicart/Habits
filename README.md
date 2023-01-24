@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um projeto que simula um site onde você marca diáriamente habitos bons que você teve durante a semana, com suas marcações sendo salvas para você acompanhar seu desenvolvimento.
 
+- [Acesse o projeto online](https://devricart.github.io/Habits/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/rV6eHojAvIppZysq7Iycys/Habits-(e)-(Community)?node-id=75%3A567&t=agTolsl56jSx5t6D-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
